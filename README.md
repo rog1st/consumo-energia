@@ -23,6 +23,6 @@ $$Custo Total = Consumo (kWh) \times Valor do kWh$$
 
 ## 🚀 Como Executar
 1. Certifique-se de ter o **Python 3.x** instalado.
-2. Clone este repositório:
-   ```bash
-   git clone https://github.com
+2. Clone este repositório
+
+   
